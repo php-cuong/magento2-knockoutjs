@@ -3,3 +3,6 @@ Using Knockout JS in Magento 2 to Decrease and the Increase Qty of the product o
 
 ## Snapshot
 ![ScreenShot](https://raw.githubusercontent.com/php-cuong/magento2-knockoutjs/master/Snapshot/Increase-qty.png)
+
+## See the video how I can create this extension
+https://www.youtube.com/watch?v=3mGfCqLvSvA
