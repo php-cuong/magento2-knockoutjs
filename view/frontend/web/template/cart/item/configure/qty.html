@@ -1,0 +1,10 @@
+<button data-bind="click: decreaseQty" class="decreaseQty">-</button>
+<input data-bind="attr: {value: qty, title: $t('Qty')}, event:{change: qtyChanged}"
+    type="number"
+    name="qty"
+    id="qty"
+    maxlength="12"
+    class="input-text qty"
+    data-validate="{'required-number':true, digits:true}"
+/>
+<button data-bind="click: increaseQty" class="increaseQty">+</button>
