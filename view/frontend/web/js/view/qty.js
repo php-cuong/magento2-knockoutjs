@@ -17,7 +17,7 @@ define(
         return Component.extend({
 
             defaults: {
-                template: 'PHPCuong_ProductQty/cart/item/configure/qty'
+                template: 'PHPCuong_ProductQty/product/view/addtocart'
             },
 
             initialize: function() {
